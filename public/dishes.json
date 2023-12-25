@@ -1,0 +1,17 @@
+[
+    {"id": 1, "url": "/pictures/chiken-fingers.png", "dishName": "Куриные крылышки во фритюре", "dishWeight": 200, "weightUnit": "г", "price": 250, "category": "Закуски"},
+    {"id": 2, "url": "/pictures/hamburger.png", "dishName": "Гамбургер", "dishWeight": 150, "weightUnit": "г", "price": 200, "category": "Закуски"},
+    {"id": 3, "url": "/pictures/caprese-salad.png", "dishName": "Салат Капрезе", "dishWeight": 100, "weightUnit": "г", "price": 150, "category": "Салаты"},
+    {"id": 4, "url": "/pictures/spaghetti.png", "dishName": "Спагетти с томатным соусом", "dishWeight": 200, "weightUnit": "г", "price": 250, "category": "Паста"},
+    {"id": 5, "url": "/pictures/seafood-dish-paella-plate-meal.png", "dishName": "Испанская паэлья с морепродуктами", "dishWeight": 300, "weightUnit": "г", "price": 400, "category": "Рисовые блюда"},
+    {"id": 6, "url": "/pictures/tropical-summer-oatmeal.png", "dishName": "Тропическая летняя овсянка", "dishWeight": 150, "weightUnit": "г", "price": 200, "category": "Десерты"},
+    {"id": 7, "url": "/pictures/borsch.png", "dishName": "Борщ", "dishWeight": 300, "weightUnit": "г", "price": 300, "category": "Супы"},
+    {"id": 8, "url": "/pictures/сaesar-salad.png", "dishName": "Салат цезарь", "dishWeight": 200, "weightUnit": "г", "price": 350, "category": "Салаты"},
+    {"id": 9, "url": "/pictures/carbonara-pasta.png", "dishName": "Карбонара", "dishWeight": 250, "weightUnit": "г", "price": 400, "category": "Паста"},
+    {"id": 10, "url": "/pictures/margarita-pizza.png", "dishName": "Маргарита", "dishWeight": 350, "weightUnit": "г", "price": 500, "category": "Пицца"},
+    {"id": 11, "url": "/pictures/tiramisu.png", "dishName": "Тирамису", "dishWeight": 150, "weightUnit": "г", "price": 250, "category": "Десерты"},
+    {"id": 12, "url": "/pictures/coffee-espresso.png", "dishName": "Эспрессо", "dishWeight": 30, "weightUnit": "мл", "price": 150, "category": "Кофе"},
+    {"id": 13, "url": "/pictures/green-tea.png", "dishName": "Чай зеленый", "dishWeight": 200, "weightUnit": "мл", "price": 100, "category": "Чай"},
+    {"id": 14, "url": "/pictures/lemon-juice.png", "dishName": "Лимонад домашний", "dishWeight": 500, "weightUnit": "мл", "price": 200, "category": "Безалкогольные напитки"},
+    {"id": 15, "url": "/pictures/beefsteak.png", "dishName": "Стейк Рибай", "dishWeight": 350, "weightUnit": "г", "price": 1500, "category": "Гриль"}
+]
